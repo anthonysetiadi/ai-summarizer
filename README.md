@@ -4,9 +4,9 @@ Simplify your reading with Sumz, an open-source article summarizer that transfor
 
 ## Built with :
 
-[x] React.js
-[x] Tailwind CSS
-[x] OpenAI & ScrapeNinja.net from [RapidAPI] (https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
+- React.js
+- Tailwind CSS
+- OpenAI & ScrapeNinja.net from [RapidAPI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 
 # React + Vite
 
