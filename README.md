@@ -2,6 +2,8 @@
 
 Simplify your reading with Sumz, an open-source article summarizer that transforms lengthy articles into clear and concise summaries using AI.
 
+Start summarizing your articles [here](https://ornate-rolypoly-f0cf96.netlify.app)
+
 ## Built with :
 
 - React.js
